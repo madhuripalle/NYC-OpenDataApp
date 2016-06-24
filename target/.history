@@ -1,0 +1,6 @@
+playVersion
+play version
+version
+play.core.PlayVersion.current()
+print play.core.PlayVersion.current()
+exit
